@@ -1,4 +1,4 @@
-# Keylogger
+# Crawler 
 
 
-Object Oriented Keylogger Made With Python to run use the qlogger file to execute the start method 
+Simple Crawler Made using Python to Access different websites and their subdomains
